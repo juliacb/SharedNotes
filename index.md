@@ -2,4 +2,4 @@
 title: "SharedNotes"
 ---
 
-Notes published from Obsidian appear here. Maintain this index manually as you publish more notes.
+- [Bear Snacks Cards](notes/bear-snacks-cards.md)
