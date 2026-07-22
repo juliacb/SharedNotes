@@ -1,2 +1,17 @@
-theme: jekyll-theme-primer
 title: "SharedNotes"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-relative-links
+
+# This forces Jekyll to auto-wrap pages without looking for a hidden layout folder
+relative_links:
+  enabled: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

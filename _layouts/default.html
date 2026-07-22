@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <!-- Change '/assets/theme.css' to match your exact file path -->
+  <link rel="stylesheet" href="{{ '/assets/retroma-web.css' | relative_url }}">
+  {% seo %}
+</head>
+<body class="markdown-preview-view theme-dark">
+  <div style="max-width: 800px; margin: 40px auto; padding: 0 20px;">
+    {{ content }}
+  </div>
+</body>
+</html>
