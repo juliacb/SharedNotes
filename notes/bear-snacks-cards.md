@@ -23,7 +23,7 @@ title: "BEAR Snacks Cards"
 | **15** | Mermaid                | 1   | Mermaid               |                       | **15** |
 | **16** | Fish carp?             |     | Pondi                 |                       | **16** |
 | **17** | Unicorn 🏴󠁧󠁢󠁳󠁣󠁴󠁿 |     | Unicorn               |                       | **17** |
-| **18** | Fox 6 tails            | 1   | Kitsune               |                       | **18** |
+| **18** | Fox 6 tails            | 2   | Kitsune               |                       | **18** |
 | **19** | Blue Ogre              | 2   | Trolls                | Troll Maze            | **19** |
 | **20** | Gnome 🥳               | 1   | Pixies                | 🟣 🍄                 | **20** |
 | **21** | Red dino 💡            |     | Troodons              |                       | **21** |
