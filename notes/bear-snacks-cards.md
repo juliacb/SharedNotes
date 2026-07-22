@@ -8,7 +8,7 @@ title: "BEAR Snacks Cards"
 | :----- | :--------------------- | :-- | :-------------------- | :-------------------- | :----- |
 | **01** | Pink T-Rex             | 1   | T-Rex/1               | Bananas               | **01** |
 | **02** | Brown dino             |     | Ankylosaurus/4        |                       | **02** |
-| **03** | Green dino             | 1   | Stegosaurus/6         |                       | **03** |
+| **03** | Green dino             | 2   | Stegosaurus/6         |                       | **03** |
 | **04** | Blue dino              |     | Triceratops/8         |                       | **04** |
 | **05** | Iguanodons             | 1   | Iguanodons/14         | dino paw prints       | **05** |
 | **06** | Green dino bird        |     | Gigantoraptor/15      |                       | **06** |
@@ -16,14 +16,14 @@ title: "BEAR Snacks Cards"
 | **08** | Blue fish              | 1   | Ichthyosaurus         |                       | **08** |
 | **09** | Hammerhead             | 1   | Hammerhead Salamander | 🪃🦎                  | **09** |
 | **10** | Orangutan              | 2   | Gigantopithecus       | 10ft                  | **10** |
-| **11** | Dodo                   | 3   | Dodo                  | Volcanoes             | **11** |
+| **11** | Dodo                   | 2   | Dodo                  | Volcanoes             | **11** |
 | **12** | Zebra / Quagga         | 3   | Quagga                | South Africa 🇿🇦     | **12** |
 | **13** | Thunder Dragon         | 3   | Thunder Dragon        | Bhutan 🇧🇹 map/flags | **13** |
 | **14** | Red Dragon             | 2   | Welsh Red Dragon      | Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿  | **14** |
 | **15** | Mermaid                | 1   | Mermaid               |                       | **15** |
 | **16** | Fish carp?             |     | Pondi                 |                       | **16** |
 | **17** | Unicorn 🏴󠁧󠁢󠁳󠁣󠁴󠁿 |     | Unicorn               |                       | **17** |
-| **18** | Fox 6 tails            | 2   | Kitsune               |                       | **18** |
+| **18** | Fox 6 tails            | 1   | Kitsune               |                       | **18** |
 | **19** | Blue Ogre              | 2   | Trolls                | Troll Maze            | **19** |
 | **20** | Gnome 🥳               | 1   | Pixies                | 🟣 🍄                 | **20** |
 | **21** | Red dino 💡            |     | Troodons              |                       | **21** |
@@ -33,7 +33,7 @@ title: "BEAR Snacks Cards"
 | **25** | yellow dino            |     | Kosmoceratops         |                       | **25** |
 | **26** | blue mosquito          | 1   | Meganeura             | a,b,c-? 75cm          | **26** |
 | **27** | Giant Frog             | 2   | Beelzebufos           | Frog fossil           | **27** |
-| **28** | hyenas?                |     | Tasmanian Tigers      |                       | **28** |
+| **28** | Tasmanian T            |     | Tasmanian Tigers      |                       | **28** |
 | **29** | swordfish              |     | Chinese Paddlefish    |                       | **29** |
 | **30** | purple dragon          |     | Scandinavian Dragons  |                       | **30** |
 | **31** | Kraken                 | 1   | Kraken                | 🐙maze                | **31** |
