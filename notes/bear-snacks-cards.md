@@ -11,7 +11,7 @@ title: "BEAR Snacks Cards"
 | **03** | Green dino             | 2   | Stegosaurus/6         |                       | **03** |
 | **04** | Blue dino              |     | Triceratops/8         |                       | **04** |
 | **05** | Iguanodons             | 1   | Iguanodons/14         | dino paw prints       | **05** |
-| **06** | Green dino bird        |     | Gigantoraptor/15      |                       | **06** |
+| **06** | Green dino bird        | 1   | Gigantoraptor/15      | colorful eggs         | **06** |
 | **07** | Blue dino/bird         |     | Quetzalcoatlsaurus/16 |                       | **07** |
 | **08** | Blue fish              | 1   | Ichthyosaurus         |                       | **08** |
 | **09** | Hammerhead             | 1   | Hammerhead Salamander | 🪃🦎                  | **09** |
@@ -29,7 +29,7 @@ title: "BEAR Snacks Cards"
 | **21** | Red dino 💡            |     | Troodons              |                       | **21** |
 | **22** | Dino long neck         |     | Patagotitan           |                       | **22** |
 | **23** | Green head brown body  | 2   | Edmontosaurus         | Find 3 🦆             | **23** |
-| **24** | Blue dino ✂️           | 1   | Therizinosaurus       | dino nail             | **24** |
+| **24** | Blue dino ✂️           | 2   | Therizinosaurus       | dino nail             | **24** |
 | **25** | yellow dino            |     | Kosmoceratops         |                       | **25** |
 | **26** | blue mosquito          | 1   | Meganeura             | a,b,c-? 75cm          | **26** |
 | **27** | Giant Frog             | 2   | Beelzebufos           | Frog fossil           | **27** |
@@ -41,11 +41,11 @@ title: "BEAR Snacks Cards"
 | **33** | Phoenix                | 3   | Phoenix               | 🐦‍🔥 🔥🥚            | **33** |
 | **34** | Cyclops                | 4   | Cyclops               | Eyes 👀               | **34** |
 | **35** | Jackalope              | 2   | Jackalope             | US map                | **35** |
-| **36** | Tree creature          |     | Green Man             |                       | **36** |
+| **36** | Tree creature          | 2   | Green Man             | weather               | **36** |
 | **37** | Nurse Fairy            | 2   | Woodland Fairy        | Maze 🏰               | **37** |
 | **38** | Forest Dragon          |     | 3/5 E/F               |                       | **38** |
 | **39** | Goblin                 |     | 2/5 EF                |                       | **39** |
-| **40** | Black Shaggy Dog       | 2   | Gurt Dog              | Forest Maze           | **40** |
+| **40** | Black Shaggy Dog       | 3   | Gurt Dog              | Forest Maze           | **40** |
 
 ----
 # BEAR Snacks: Canada Science Squad Cards
