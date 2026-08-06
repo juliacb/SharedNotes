@@ -11,14 +11,14 @@ title: "BEAR Snacks Cards"
 | **03** | Green dino             | 2   | Stegosaurus/6         |                       | **03** |
 | **04** | Blue dino              |     | Triceratops/8         |                       | **04** |
 | **05** | Iguanodons             | 1   | Iguanodons/14         | dino paw prints       | **05** |
-| **06** | Green dino bird        | 1   | Gigantoraptor/15      | colorful eggs         | **06** |
+| **06** | Green dino bird        | 2   | Gigantoraptor/15      | colorful eggs         | **06** |
 | **07** | Blue dino/bird         |     | Quetzalcoatlsaurus/16 |                       | **07** |
 | **08** | Blue fish              | 1   | Ichthyosaurus         |                       | **08** |
 | **09** | Hammerhead             | 1   | Hammerhead Salamander | 🪃🦎                  | **09** |
 | **10** | Orangutan              | 2   | Gigantopithecus       | 10ft                  | **10** |
 | **11** | Dodo                   | 2   | Dodo                  | Volcanoes             | **11** |
 | **12** | Zebra / Quagga         | 3   | Quagga                | South Africa 🇿🇦     | **12** |
-| **13** | Thunder Dragon         | 3   | Thunder Dragon        | Bhutan 🇧🇹 map/flags | **13** |
+| **13** | Thunder Dragon         | 4   | Thunder Dragon        | Bhutan 🇧🇹 map/flags | **13** |
 | **14** | Red Dragon             | 2   | Welsh Red Dragon      | Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿  | **14** |
 | **15** | Mermaid                | 1   | Mermaid               |                       | **15** |
 | **16** | Fish carp?             |     | Pondi                 |                       | **16** |
@@ -38,7 +38,7 @@ title: "BEAR Snacks Cards"
 | **30** | purple dragon          |     | Scandinavian Dragons  |                       | **30** |
 | **31** | Kraken                 | 1   | Kraken                | 🐙maze                | **31** |
 | **32** | Purple/pink Griffin    | 3   | Griffin               | Griffins puzzle       | **32** |
-| **33** | Phoenix                | 3   | Phoenix               | 🐦‍🔥 🔥🥚            | **33** |
+| **33** | Phoenix                | 4   | Phoenix               | 🐦‍🔥 🔥🥚            | **33** |
 | **34** | Cyclops                | 4   | Cyclops               | Eyes 👀               | **34** |
 | **35** | Jackalope              | 2   | Jackalope             | US map                | **35** |
 | **36** | Tree creature          | 2   | Green Man             | weather               | **36** |
