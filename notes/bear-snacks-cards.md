@@ -7,7 +7,7 @@ title: "BEAR Snacks Cards"
 | #      | Description            | Qty | UK Name/Series/No     | Card Back/Puzzle      | #      |
 | :----- | :--------------------- | :-- | :-------------------- | :-------------------- | :----- |
 | **01** | Pink T-Rex             | 1   | T-Rex/1               | Bananas               | **01** |
-| **02** | Brown dino             | 1   | Ankylosaurus/4        |                       | **02** |
+| **02** | Brown dino             | 2   | Ankylosaurus/4        |                       | **02** |
 | **03** | Green dino             | 2   | Stegosaurus/6         |                       | **03** |
 | **04** | Blue dino              |     | Triceratops/8         |                       | **04** |
 | **05** | Iguanodons             | 1   | Iguanodons/14         | dino paw prints       | **05** |
@@ -19,14 +19,14 @@ title: "BEAR Snacks Cards"
 | **11** | Dodo                   | 2   | Dodo                  | Volcanoes             | **11** |
 | **12** | Zebra / Quagga         | 3   | Quagga                | South Africa 🇿🇦     | **12** |
 | **13** | Thunder Dragon         | 4   | Thunder Dragon        | Bhutan 🇧🇹 map/flags | **13** |
-| **14** | Red Dragon             | 2   | Welsh Red Dragon      | Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿  | **14** |
+| **14** | Red Dragon             | 3   | Welsh Red Dragon      | Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿  | **14** |
 | **15** | Mermaid                | 1   | Mermaid               |                       | **15** |
 | **16** | Fish carp?             |     | Pondi                 |                       | **16** |
 | **17** | Unicorn 🏴󠁧󠁢󠁳󠁣󠁴󠁿 |     | Unicorn               |                       | **17** |
 | **18** | Fox 6 tails            | 2   | Kitsune               |                       | **18** |
 | **19** | Blue Ogre              | 2   | Trolls                | Troll Maze            | **19** |
 | **20** | Gnome 🥳               | 1   | Pixies                | 🟣 🍄                 | **20** |
-| **21** | Red dino 💡            |     | Troodons              |                       | **21** |
+| **21** | Red dino 💡            | 2   | Troodons              |                       | **21** |
 | **22** | Dino long neck         |     | Patagotitan           |                       | **22** |
 | **23** | Green head brown body  | 2   | Edmontosaurus         | Find 3 🦆             | **23** |
 | **24** | Blue dino ✂️           | 2   | Therizinosaurus       | dino nail             | **24** |
