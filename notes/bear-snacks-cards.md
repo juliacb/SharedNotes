@@ -33,9 +33,9 @@ title: "BEAR Snacks Cards"
 | ==**25**== | ==yellow dino==            |     | ==Kosmoceratops==         |                       |
 | **26**     | blue mosquito              | 1   | Meganeura                 | a,b,c-? 75cm          |
 | **27**     | Giant Frog                 | 2   | Beelzebufos               | Frog fossil           |
-| ==**28**==     | ==Tasmanian T==                |     | ==Tasmanian Tigers==          |                       |
-| ==**29**==     | ==swordfish==                  |     | ==Chinese Paddlefish==        |                       |
-| ==**30**==     | ==purple dragon==              |     | ==Scandinavian Dragons==      |                       |
+| ==**28**== | ==Tasmanian T==            |     | ==Tasmanian Tigers==      |                       |
+| ==**29**== | ==swordfish==              |     | ==Chinese Paddlefish==    |                       |
+| ==**30**== | ==purple dragon==          |     | ==Scandinavian Dragons==  |                       |
 | **31**     | Kraken                     | 1   | Kraken                    | 🐙maze                |
 | **32**     | Purple/pink Griffin        | 3   | Griffin                   | Griffins puzzle       |
 | **33**     | Phoenix                    | 4   | Phoenix                   | 🐦‍🔥 🔥🥚            |
@@ -43,8 +43,8 @@ title: "BEAR Snacks Cards"
 | **35**     | Jackalope                  | 2   | Jackalope                 | US map                |
 | **36**     | Tree creature              | 2   | Green Man                 | weather               |
 | **37**     | Nurse Fairy                | 2   | Woodland Fairy            | Maze 🏰               |
-| **38**     | Forest Dragon              |     | 3/5 E/F                   |                       |
-| **39**     | Goblin                     |     | 2/5 EF                    |                       |
+| ==**38**== | ==Forest Dragon==          |     | ==3/5 E/F==               |                       |
+| ==**39**== | ==Goblin==                 |     | ==2/5 EF==                |                       |
 | **40**     | Black Shaggy Dog           | 3   | Gurt Dog                  | Forest Maze           |
 
 ----
