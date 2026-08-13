@@ -28,14 +28,14 @@ title: "BEAR Snacks Cards"
 | **20**     | Gnome 🥳                   | 1   | Pixies                    | 🟣 🍄                 |
 | **21**     | Red dino 💡                | 2   | Troodons                  |                       |
 | ==**22**== | ==Dino long neck==         |     | ==Patagotitan==           |                       |
-| **23**     | Green head brown body      | 2   | Edmontosaurus             | Find 3 🦆             |
+| **23**     | Green head dino            | 2   | Edmontosaurus             | Find 3 🦆             |
 | **24**     | Blue dino ✂️               | 2   | Therizinosaurus           | dino nail             |
 | ==**25**== | ==yellow dino==            |     | ==Kosmoceratops==         |                       |
 | **26**     | blue mosquito              | 1   | Meganeura                 | a,b,c-? 75cm          |
 | **27**     | Giant Frog                 | 2   | Beelzebufos               | Frog fossil           |
-| **28**     | Tasmanian T                |     | Tasmanian Tigers          |                       |
-| **29**     | swordfish                  |     | Chinese Paddlefish        |                       |
-| **30**     | purple dragon              |     | Scandinavian Dragons      |                       |
+| ==**28**==     | ==Tasmanian T==                |     | ==Tasmanian Tigers==          |                       |
+| ==**29**==     | ==swordfish==                  |     | ==Chinese Paddlefish==        |                       |
+| ==**30**==     | ==purple dragon==              |     | ==Scandinavian Dragons==      |                       |
 | **31**     | Kraken                     | 1   | Kraken                    | 🐙maze                |
 | **32**     | Purple/pink Griffin        | 3   | Griffin                   | Griffins puzzle       |
 | **33**     | Phoenix                    | 4   | Phoenix                   | 🐦‍🔥 🔥🥚            |
