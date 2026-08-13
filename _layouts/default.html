@@ -3,13 +3,49 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title | default: site.title }}</title>
-  <!-- Change '/assets/theme.css' to match your exact file path -->
   <link rel="stylesheet" href="{{ '/assets/retroma-web.css' | relative_url }}">
   {% seo %}
+  <style>
+    /* Styling to match standard Obsidian look */
+    mark.obsidian-highlight {
+      background-color: rgba(217, 45, 240, 0.42); /* Vibrant yellow highlighter */
+      color: inherit;
+      padding: 0 4px;
+      border-radius: 2px;
+    }
+  </style>
 </head>
 <body class="markdown-preview-view theme-dark">
-  <div style="max-width: 800px; margin: 40px auto; padding: 0 20px;">
+  <!-- Added the class "obsidian-content" to accurately isolate markdown text -->
+  <div class="obsidian-content" style="max-width: 800px; margin: 40px auto; padding: 0 20px;">
     {{ content }}
   </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const contentArea = document.querySelector('.obsidian-content');
+    if (!contentArea) return;
+
+    // 1. Temporarily extract and mask code blocks to prevent ruining actual code syntax
+    const codeBlocks = [];
+    contentArea.querySelectorAll('pre, code, script, style').forEach((el, index) => {
+      const placeholder = `___CODE_BLOCK_PLACEHOLDER_${index}___`;
+      codeBlocks.push({ placeholder, element: el.outerHTML });
+      el.outerHTML = placeholder;
+    });
+
+    // 2. Perform the global replacement of ==text== with HTML mark tags
+    let html = contentArea.innerHTML;
+    const regex = /==([^=\n]+)==/g;
+    html = html.replace(regex, '<mark class="obsidian-highlight">$1</mark>');
+
+    // 3. Restore the untouched code blocks back into place
+    codeBlocks.forEach(item => {
+      html = html.replace(item.placeholder, item.element);
+    });
+
+    contentArea.innerHTML = html;
+  });
+</script>
 </body>
 </html>
