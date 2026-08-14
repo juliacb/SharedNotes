@@ -9,8 +9,8 @@ title: "BEAR Snacks Cards"
 | **01**     | Pink T-Rex                 | 1   | T-Rex/1                   | Bananas               |
 | **02**     | Brown dino                 | 2   | Ankylosaurus/4            |                       |
 | **03**     | Green dino                 | 2   | Stegosaurus/6             |                       |
-| ==**04**== | ==Blue dino==              |     | ==Triceratops/8==         |                       |
-| **05**     | Iguanodons                 | 1   | Iguanodons/14             | dino paw prints       |
+| **04**     | Blue dino                  | 1   | Triceratops/8             |                       |
+| **05**     | Iguanodons                 | 2   | Iguanodons/14             | dino paw prints       |
 | **06**     | Green dino bird            | 2   | Gigantoraptor/15          | colorful eggs         |
 | ==**07**== | ==Blue dino/bird==         |     | ==Quetzalcoatlsaurus/16== |                       |
 | **08**     | Blue fish                  | 1   | Ichthyosaurus             |                       |
@@ -33,7 +33,7 @@ title: "BEAR Snacks Cards"
 | ==**25**== | ==yellow dino==            |     | ==Kosmoceratops==         |                       |
 | **26**     | blue mosquito              | 1   | Meganeura                 | a,b,c-? 75cm          |
 | **27**     | Giant Frog                 | 2   | Beelzebufos               | Frog fossil           |
-| ==**28**== | ==Tasmanian T==            |     | ==Tasmanian Tigers==      |                       |
+| **28**     | Tasmanian T                | 1   | Tasmanian Tigers          |                       |
 | ==**29**== | ==swordfish==              |     | ==Chinese Paddlefish==    |                       |
 | ==**30**== | ==purple dragon==          |     | ==Scandinavian Dragons==  |                       |
 | **31**     | Kraken                     | 1   | Kraken                    | 🐙maze                |
@@ -41,7 +41,7 @@ title: "BEAR Snacks Cards"
 | **33**     | Phoenix                    | 4   | Phoenix                   | 🐦‍🔥 🔥🥚            |
 | **34**     | Cyclops                    | 4   | Cyclops                   | Eyes 👀               |
 | **35**     | Jackalope                  | 2   | Jackalope                 | US map                |
-| **36**     | Tree creature              | 2   | Green Man                 | weather               |
+| **36**     | Tree creature              | 3   | Green Man                 | weather               |
 | **37**     | Nurse Fairy                | 2   | Woodland Fairy            | Maze 🏰               |
 | ==**38**== | ==Forest Dragon==          |     | ==3/5 E/F==               |                       |
 | ==**39**== | ==Goblin==                 |     | ==2/5 EF==                |                       |
