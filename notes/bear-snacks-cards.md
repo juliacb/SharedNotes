@@ -33,7 +33,7 @@ title: "BEAR Snacks Cards"
 | ==**25**== | ==yellow dino==            |     | ==Kosmoceratops==         |                       |
 | **26**     | blue mosquito              | 1   | Meganeura                 | a,b,c-? 75cm          |
 | **27**     | Giant Frog                 | 2   | Beelzebufos               | Frog fossil           |
-| **28**     | Tasmanian T                | 1   | Tasmanian Tigers          |                       |
+| **28**     | Tasmanian Tigers           | 1   | Tasmanian Tigers          |                       |
 | ==**29**== | ==swordfish==              |     | ==Chinese Paddlefish==    |                       |
 | ==**30**== | ==purple dragon==          |     | ==Scandinavian Dragons==  |                       |
 | **31**     | Kraken                     | 1   | Kraken                    | 🐙maze                |
