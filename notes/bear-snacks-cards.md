@@ -20,10 +20,10 @@ title: "BEAR Snacks Cards"
 | **12**     | Zebra / Quagga             | 3     | Quagga                    | South Africa 🇿🇦     |
 | **13**     | Thunder Dragon             | 4     | Thunder Dragon            | Bhutan 🇧🇹 map/flags |
 | **14**     | Red Dragon                 | 3     | Welsh Red Dragon          | Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿  |
-| **15**     | Mermaid                    | 1     | Mermaid                   |                       |
+| **15**     | Mermaid                    | 1     | Mermaid                   | maze                  |
 | ==**16**== | ==Fish carp==              | ==0== | ==Pondi==                 |                       |
 | ==**17**== | ==Unicorn 🏴󠁧󠁢󠁳󠁣󠁴󠁿== | ==0== | ==Unicorn==               |                       |
-| **18**     | Fox 6 tails                | 2     | Kitsune                   |                       |
+| **18**     | Fox 6 tails                | 2     | Kitsune                   | Japan map/flags       |
 | **19**     | Blue Ogre                  | 2     | Trolls                    | Troll Maze            |
 | **20**     | Gnome 🥳                   | 1     | Pixies                    | 🟣 🍄                 |
 | **21**     | Red dino 💡                | 2     | Troodons                  |                       |
