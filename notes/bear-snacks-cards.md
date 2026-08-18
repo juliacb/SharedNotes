@@ -6,7 +6,7 @@ title: "BEAR Snacks Cards"
 
 | #          | Description                | Qty | UK Name/Series/No         | Card Back/Puzzle      |
 | :--------- | :------------------------- | :-- | :------------------------ | :-------------------- |
-| **01**     | Pink T-Rex                 | 1   | T-Rex/1                   | Bananas               |
+| **01**     | Pink T-Rex                 | 2   | T-Rex/1                   | Bananas               |
 | **02**     | Brown dino                 | 2   | Ankylosaurus/4            |                       |
 | **03**     | Green dino                 | 2   | Stegosaurus/6             |                       |
 | **04**     | Blue dino                  | 1   | Triceratops/8             |                       |
