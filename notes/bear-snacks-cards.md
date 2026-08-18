@@ -45,7 +45,7 @@ title: "BEAR Snacks Cards"
 | **37**     | Nurse Fairy                | 2     | Woodland Fairy            | Maze 🏰               |
 | ==**38**== | ==Forest Dragon==          | ==0== | ==3/5 E/F==               |                       |
 | ==**39**== | ==Goblin==                 | ==0== | ==2/5 EF==                |                       |
-| **40**     | Black Shaggy Dog           | 3     | Gurt Dog                  | Forest Maze           |
+| **40**     | Black Shaggy Dog           | 2     | Gurt Dog                  | Forest Maze           |
 
 ----
 # BEAR Snacks: Canada Science Squad Cards
