@@ -18,8 +18,8 @@ title: "BEAR Snacks Cards"
 | **10**     | Orangutan                  | 2     | Gigantopithecus           | 10ft a,b,c_?          |
 | **11**     | Dodo                       | 3     | Dodo                      | Volcanoes maze        |
 | **12**     | Zebra / Quagga             | 3     | Quagga                    | South Africa 🇿🇦     |
-| **13**     | Thunder Dragon             | 4     | Thunder Dragon            | Bhutan 🇧🇹 map/flags |
-| **14**     | Red Dragon                 | 3     | Welsh Red Dragon          | Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿  |
+| **13**     | Thunder Dragon             | 2     | Thunder Dragon            | Bhutan 🇧🇹 map/flags |
+| **14**     | Red Dragon                 | 2     | Welsh Red Dragon          | Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿  |
 | **15**     | Mermaid                    | 1     | Mermaid                   | maze                  |
 | ==**16**== | ==Fish carp==              | ==0== | ==Pondi==                 |                       |
 | ==**17**== | ==Unicorn 🏴󠁧󠁢󠁳󠁣󠁴󠁿== | ==0== | ==Unicorn==               |                       |
