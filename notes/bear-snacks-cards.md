@@ -37,8 +37,8 @@ title: "BEAR Snacks Cards"
 | ==**29**== | ==Swordfish==              | ==0== | ==Chinese Paddlefish==    |                       |
 | ==**30**== | ==Purple dragon==          | ==0== | ==Scandinavian Dragons==  |                       |
 | **31**     | Kraken                     | 1     | Kraken                    | 🐙maze                |
-| **32**     | Purple/pink Griffin        | 3     | Griffin                   | Griffins puzzle       |
-| **33**     | Phoenix                    | 4     | Phoenix                   | 🐦‍🔥 🔥🥚            |
+| **32**     | Purple/pink Griffin        | 2     | Griffin                   | Griffins puzzle       |
+| **33**     | Phoenix                    | 2     | Phoenix                   | 🐦‍🔥 🔥🥚            |
 | **34**     | Cyclops                    | 4     | Cyclops                   | Eyes 👀               |
 | **35**     | Jackalope                  | 2     | Jackalope                 | US map                |
 | **36**     | Tree creature              | 3     | Green Man                 | weather maze          |
