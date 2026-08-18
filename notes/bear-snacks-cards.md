@@ -49,7 +49,6 @@ title: "BEAR Snacks Cards"
 
 ----
 # BEAR Snacks: Canada Science Squad Cards
-mr surprise album
 
 | #      | Description    | Qty | UK No | Card Back/ |
 | :----- | :------------- | :-- | :---- | :--------- |
