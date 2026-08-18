@@ -16,7 +16,7 @@ title: "BEAR Snacks Cards"
 | **08**     | Blue fish                  | 1     | Ichthyosaurus             | maze                  |
 | **09**     | Hammerhead                 | 1     | Hammerhead Salamander     | 🪃🦎                  |
 | **10**     | Orangutan                  | 2     | Gigantopithecus           | 10ft a,b,c_?          |
-| **11**     | Dodo                       | 2     | Dodo                      | Volcanoes maze        |
+| **11**     | Dodo                       | 3     | Dodo                      | Volcanoes maze        |
 | **12**     | Zebra / Quagga             | 3     | Quagga                    | South Africa 🇿🇦     |
 | **13**     | Thunder Dragon             | 4     | Thunder Dragon            | Bhutan 🇧🇹 map/flags |
 | **14**     | Red Dragon                 | 3     | Welsh Red Dragon          | Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿  |
