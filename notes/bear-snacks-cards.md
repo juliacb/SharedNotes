@@ -30,7 +30,7 @@ title: "BEAR Snacks Cards"
 | ==**22**== | ==Dino long neck==         |     | ==Patagotitan==           |                       |
 | **23**     | Green head dino            | 2   | Edmontosaurus             | Find 3 🦆             |
 | **24**     | Blue dino ✂️               | 2   | Therizinosaurus           | dino nail             |
-| ==**25**== | ==yellow dino==            |     | ==Kosmoceratops==         |                       |
+| **25**     | yellow dino                | 1   | Kosmoceratops             | a,b,c-? dino heads    |
 | **26**     | blue mosquito              | 1   | Meganeura                 | a,b,c-? 75cm          |
 | **27**     | Giant Frog                 | 2   | Beelzebufos               | Frog fossil           |
 | **28**     | Tasmanian Tigers           | 1   | Tasmanian Tigers          |                       |
