@@ -41,7 +41,7 @@ title: "BEAR Snacks Cards"
 | **33**     | Phoenix                    | 4     | Phoenix                   | 🐦‍🔥 🔥🥚            |
 | **34**     | Cyclops                    | 4     | Cyclops                   | Eyes 👀               |
 | **35**     | Jackalope                  | 2     | Jackalope                 | US map                |
-| **36**     | Tree creature              | 3     | Green Man                 | weather               |
+| **36**     | Tree creature              | 3     | Green Man                 | weather maze          |
 | **37**     | Nurse Fairy                | 2     | Woodland Fairy            | Maze 🏰               |
 | ==**38**== | ==Forest Dragon==          | ==0== | ==3/5 E/F==               |                       |
 | ==**39**== | ==Goblin==                 | ==0== | ==2/5 EF==                |                       |
