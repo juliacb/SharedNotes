@@ -4,7 +4,7 @@ title: "BEAR Snacks Cards"
 
 # BEAR Snacks: International 40-Set Tracker
 
-| #          | Description                | Qty   | UK Name/Series/No         | Card Back/Puzzle      |
+| #          | Description                | Qty   | UK Name/Series/No         | Card Back             |
 | :--------- | :------------------------- | :---- | :------------------------ | :-------------------- |
 | **01**     | Pink T-Rex                 | 2     | T-Rex/1                   | Bananas               |
 | **02**     | Brown dino                 | 2     | Ankylosaurus/4            |                       |
@@ -12,7 +12,7 @@ title: "BEAR Snacks Cards"
 | **04**     | Blue dino                  | 1     | Triceratops/8             |                       |
 | **05**     | Iguanodons                 | 2     | Iguanodons/14             | dino paw prints       |
 | **06**     | Green dino bird            | 2     | Gigantoraptor/15          | colorful eggs         |
-| ==**07**== | ==Blue dino/bird==         | 0     | ==Quetzalcoatlsaurus/16== |                       |
+| ==**07**== | ==Blue dino/bird==         | ==0== | ==Quetzalcoatlsaurus/16== |                       |
 | **08**     | Blue fish                  | 1     | Ichthyosaurus             |                       |
 | **09**     | Hammerhead                 | 1     | Hammerhead Salamander     | 🪃🦎                  |
 | **10**     | Orangutan                  | 2     | Gigantopithecus           | 10ft                  |
@@ -21,8 +21,8 @@ title: "BEAR Snacks Cards"
 | **13**     | Thunder Dragon             | 4     | Thunder Dragon            | Bhutan 🇧🇹 map/flags |
 | **14**     | Red Dragon                 | 3     | Welsh Red Dragon          | Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿  |
 | **15**     | Mermaid                    | 1     | Mermaid                   |                       |
-| ==**16**== | ==Fish carp==              | 0     | ==Pondi==                 |                       |
-| ==**17**== | ==Unicorn 🏴󠁧󠁢󠁳󠁣󠁴󠁿== | 0     | ==Unicorn==               |                       |
+| ==**16**== | ==Fish carp==              | ==0== | ==Pondi==                 |                       |
+| ==**17**== | ==Unicorn 🏴󠁧󠁢󠁳󠁣󠁴󠁿== | ==0== | ==Unicorn==               |                       |
 | **18**     | Fox 6 tails                | 2     | Kitsune                   |                       |
 | **19**     | Blue Ogre                  | 2     | Trolls                    | Troll Maze            |
 | **20**     | Gnome 🥳                   | 1     | Pixies                    | 🟣 🍄                 |
