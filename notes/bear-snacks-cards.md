@@ -3,7 +3,7 @@ title: "BEAR Snacks Cards"
 ---
 
 # BEAR Snacks: International 40-Set Tracker
-7, 16, 17, 22, 29, 30, 
+**Still need:** 7, 16, 17, 22, 29, 30, 38, 39
 
 | #          | Description                | Qty   | UK Name/Series/No         | Card Back             |
 | :--------- | :------------------------- | :---- | :------------------------ | :-------------------- |
