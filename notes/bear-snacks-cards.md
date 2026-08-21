@@ -3,7 +3,7 @@ title: "BEAR Snacks Cards"
 ---
 
 # BEAR Snacks: International 40-Set Tracker
-**Still need:** 7, 16, 17, 22, 29, 30, 38, 39
+**Still need:** 7, 17, 29, 30, 38, 39
 
 | #          | Description                | Qty   | UK Name/Series/No         | Card Back             |
 | :--------- | :------------------------- | :---- | :------------------------ | :-------------------- |
@@ -22,13 +22,13 @@ title: "BEAR Snacks Cards"
 | **13**     | Thunder Dragon             | 2     | Thunder Dragon            | Bhutan 🇧🇹 map/flags |
 | **14**     | Red Dragon                 | 2     | Welsh Red Dragon          | Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿  |
 | **15**     | Mermaid                    | 1     | Mermaid                   | maze                  |
-| ==**16**== | ==Fish carp==              | ==0== | ==Pondi==                 |                       |
+| **16**     | Fish carp                  | 1     | Pondi                     |                       |
 | ==**17**== | ==Unicorn 🏴󠁧󠁢󠁳󠁣󠁴󠁿== | ==0== | ==Unicorn==               |                       |
 | **18**     | Fox 6 tails                | 2     | Kitsune                   | Japan map/flags       |
 | **19**     | Blue Ogre                  | 2     | Trolls                    | Troll Maze            |
 | **20**     | Gnome 🥳                   | 1     | Pixies                    | 🟣 🍄                 |
 | **21**     | Red dino 💡                | 2     | Troodons                  | maze                  |
-| ==**22**== | ==Dino long neck==         | ==0== | ==Patagotitan==           |                       |
+| **22**     | Dino long neck             | 1     | Patagotitan               |                       |
 | **23**     | Green head dino            | 2     | Edmontosaurus             | Find 3 🦆             |
 | **24**     | Blue dino ✂️               | 2     | Therizinosaurus           | dino nail             |
 | **25**     | yellow dino                | 1     | Kosmoceratops             | a,b,c-? dino heads    |
