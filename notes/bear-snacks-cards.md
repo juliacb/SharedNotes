@@ -22,7 +22,7 @@ title: "BEAR Snacks Cards"
 | **13**     | Thunder Dragon             | 2     | Thunder Dragon            | Bhutan 🇧🇹 map/flags |
 | **14**     | Red Dragon                 | 2     | Welsh Red Dragon          | Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿  |
 | **15**     | Mermaid                    | 1     | Mermaid                   | maze                  |
-| **16**     | Fish carp                  | 1     | Pondi                     |                       |
+| **16**     | Fish carp                  | 1     | Pondi                     | Australia             |
 | ==**17**== | ==Unicorn 🏴󠁧󠁢󠁳󠁣󠁴󠁿== | ==0== | ==Unicorn==               |                       |
 | **18**     | Fox 6 tails                | 2     | Kitsune                   | Japan map/flags       |
 | **19**     | Blue Ogre                  | 2     | Trolls                    | Troll Maze            |
