@@ -9,7 +9,7 @@ title: "BEAR Snacks Cards"
 | :--------- | :------------------------- | :---- | :------------------------ | :-------------------- |
 | **01**     | Pink T-Rex                 | 2     | T-Rex/1                   | Bananas               |
 | **02**     | Brown dino                 | 2     | Ankylosaurus/4            | dino maze             |
-| **03**     | Green dino                 | 2     | Stegosaurus/6             | 1,2,3_?               |
+| **03**     | Green dino                 | 3     | Stegosaurus/6             | 1,2,3_?               |
 | **04**     | Blue dino                  | 1     | Triceratops/8             | maze                  |
 | **05**     | Iguanodons                 | 2     | Iguanodons/14             | dino paw prints       |
 | **06**     | Green dino bird            | 2     | Gigantoraptor/15          | colorful eggs         |
