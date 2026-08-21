@@ -11,7 +11,7 @@ title: "BEAR Snacks Cards"
 | **02**     | Brown dino                 | 2     | Ankylosaurus/4            | dino maze             |
 | **03**     | Green dino                 | 3     | Stegosaurus/6             | 1,2,3_?               |
 | **04**     | Blue dino                  | 1     | Triceratops/8             | maze                  |
-| **05**     | Iguanodons                 | 2     | Iguanodons/14             | dino paw prints       |
+| **05**     | Iguanodons                 | 3     | Iguanodons/14             | dino paw prints       |
 | **06**     | Green dino bird            | 2     | Gigantoraptor/15          | colorful eggs         |
 | ==**07**== | ==Blue dino/bird==         | ==0== | ==Quetzalcoatlsaurus/16== |                       |
 | **08**     | Blue fish                  | 1     | Ichthyosaurus             | maze                  |
