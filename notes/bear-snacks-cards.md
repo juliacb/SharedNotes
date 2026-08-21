@@ -27,7 +27,7 @@ title: "BEAR Snacks Cards"
 | **18**     | Fox 6 tails                | 2     | Kitsune                   | Japan map/flags       |
 | **19**     | Blue Ogre                  | 2     | Trolls                    | Troll Maze            |
 | **20**     | Gnome 🥳                   | 1     | Pixies                    | 🟣 🍄                 |
-| **21**     | Red dino 💡                | 2     | Troodons                  | maze                  |
+| **21**     | Red dino 💡                | 3     | Troodons                  | maze                  |
 | **22**     | Dino long neck             | 1     | Patagotitan               | dino weight scale     |
 | **23**     | Green head dino            | 2     | Edmontosaurus             | Find 3 🦆             |
 | **24**     | Blue dino ✂️               | 2     | Therizinosaurus           | dino nail             |
