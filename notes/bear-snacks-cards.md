@@ -9,7 +9,7 @@ title: "BEAR Snacks Cards"
 | :--------- | :------------------------- | :---- | :------------------------ | :-------------------- |
 | **01**     | Pink T-Rex                 | 2     | T-Rex/1                   | Bananas               |
 | **02**     | Brown dino                 | 2     | Ankylosaurus/4            | dino maze             |
-| **03**     | Green dino                 | 3     | Stegosaurus/6             | 1,2,3_?               |
+| **03**     | Green dino                 | 4     | Stegosaurus/6             | 1,2,3_?               |
 | **04**     | Blue dino                  | 1     | Triceratops/8             | maze                  |
 | **05**     | Iguanodons                 | 3     | Iguanodons/14             | dino paw prints       |
 | **06**     | Green dino bird            | 2     | Gigantoraptor/15          | colorful eggs         |
@@ -30,7 +30,7 @@ title: "BEAR Snacks Cards"
 | **21**     | Red dino 💡                | 3     | Troodons                  | maze                  |
 | **22**     | Dino long neck             | 1     | Patagotitan               | dino weight scale     |
 | **23**     | Green head dino            | 2     | Edmontosaurus             | Find 3 🦆             |
-| **24**     | Blue dino ✂️               | 2     | Therizinosaurus           | dino nail             |
+| **24**     | Blue dino ✂️               | 3     | Therizinosaurus           | dino nail             |
 | **25**     | yellow dino                | 1     | Kosmoceratops             | a,b,c-? dino heads    |
 | **26**     | blue mosquito              | 1     | Meganeura                 | a,b,c-? 75cm          |
 | **27**     | Giant Frog                 | 2     | Beelzebufos               | a,b,c-? Frog fossil   |
