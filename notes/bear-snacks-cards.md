@@ -36,7 +36,7 @@ title: "BEAR Snacks Cards"
 | **27**     | Giant Frog                 | 2     | Beelzebufos               | a,b,c-? Frog fossil   |
 | **28**     | Tasmanian Tigers           | 1     | Tasmanian Tigers          | a,b,c_? tigers        |
 | ==**29**== | ==Swordfish==              | ==0== | ==Chinese Paddlefish==    |                       |
-| ==**30**== | ==Purple dragon==          | ==0== | ==Scandinavian Dragons==  |                       |
+| **30**     | Purple dragon              | 1     | Scandinavian Dragons      |                       |
 | **31**     | Kraken                     | 1     | Kraken                    | 🐙maze                |
 | **32**     | Purple/pink Griffin        | 2     | Griffin                   | Griffins puzzle       |
 | **33**     | Phoenix                    | 3     | Phoenix                   | 🐦‍🔥 🔥🥚            |
