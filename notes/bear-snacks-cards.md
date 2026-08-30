@@ -11,14 +11,14 @@ title: "BEAR Snacks Cards"
 | **02**     | Brown dino                 | 2     | Ankylosaurus/4            | dino maze             |
 | **03**     | Green dino                 | 4     | Stegosaurus/6             | 1,2,3_?               |
 | **04**     | Blue dino                  | 1     | Triceratops/8             | maze                  |
-| **05**     | Iguanodons                 | 3     | Iguanodons/14             | dino paw prints       |
+| **05**     | Iguanodons                 | 4     | Iguanodons/14             | dino paw prints       |
 | **06**     | Green dino bird            | 2     | Gigantoraptor/15          | colorful eggs         |
 | ==**07**== | ==Blue dino/bird==         | ==0== | ==Quetzalcoatlsaurus/16== |                       |
 | **08**     | Blue fish                  | 1     | Ichthyosaurus             | maze                  |
 | **09**     | Hammerhead                 | 1     | Hammerhead Salamander     | 🪃🦎                  |
 | **10**     | Orangutan                  | 2     | Gigantopithecus           | 10ft a,b,c_?          |
 | **11**     | Dodo                       | 3     | Dodo                      | Volcanoes maze        |
-| **12**     | Zebra / Quagga             | 3     | Quagga                    | South Africa 🇿🇦     |
+| **12**     | Zebra / Quagga             | 4     | Quagga                    | South Africa 🇿🇦     |
 | **13**     | Thunder Dragon             | 2     | Thunder Dragon            | Bhutan 🇧🇹 map/flags |
 | **14**     | Red Dragon                 | 2     | Welsh Red Dragon          | Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿  |
 | **15**     | Mermaid                    | 1     | Mermaid                   | maze                  |
