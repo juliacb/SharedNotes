@@ -824,7 +824,7 @@ select:focus-within {
   border-radius: var(--window-border-radius) !important;
   border: var(--border-ridge);
   background-color: var(--background-paper) !important;
-  box-shadow: inset 0 0 4px oklch(from black l c h / 50%) !important;
+  box-shadow: inset 0 0 4px oklch(from rgb(236, 120, 252) l c h / 50%) !important;
   z-index: 0;
 }
 

@@ -1,5 +1,6 @@
 ---
 title: "BEAR Snacks Cards"
+layout: default
 ---
 
 # BEAR Snacks: International 40-Set Tracker
