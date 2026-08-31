@@ -33,7 +33,7 @@ title: "BEAR Snacks Cards"
 | **24**     | Blue dino ✂️               | 3     | Therizinosaurus           | dino nail             |
 | **25**     | yellow dino                | 1     | Kosmoceratops             | a,b,c-? dino heads    |
 | **26**     | blue mosquito              | 1     | Meganeura                 | a,b,c-? 75cm          |
-| **27**     | Giant Frog                 | 2     | Beelzebufos               | a,b,c-? Frog fossil   |
+| **27**     | Giant Frog                 | 3     | Beelzebufos               | a,b,c-? Frog fossil   |
 | **28**     | Tasmanian Tigers           | 1     | Tasmanian Tigers          | a,b,c_? tigers        |
 | ==**29**== | ==Swordfish==              | ==0== | ==Chinese Paddlefish==    |                       |
 | **30**     | Purple dragon              | 1     | Scandinavian Dragons      |                       |
