@@ -1,10 +1,9 @@
 ---
 title: "BEAR Snacks Cards"
-layout: default
 ---
 
 # BEAR Snacks: International 40-Set Tracker
-**Still need:** 7, 17, 29, 38, 39
+**Still need:** 7, 17, 29, 39
 
 | #          | Description                | Qty   | UK Name/Series/No         | Card Back             |
 | :--------- | :------------------------- | :---- | :------------------------ | :-------------------- |
@@ -45,7 +44,7 @@ layout: default
 | **35**     | Jackalope                  | 2     | Jackalope                 | US map                |
 | **36**     | Tree creature              | 3     | Green Man                 | weather maze          |
 | **37**     | Nurse Fairy                | 2     | Woodland Fairy            | Maze 🏰               |
-| ==**38**== | ==Forest Dragon==          | ==0== | ==3/5 E/F==               |                       |
+| **38**     | Forest Dragon              | 1     | 3/5 E/F                   | Maze cows             |
 | ==**39**== | ==Goblin==                 | ==0== | ==2/5 EF==                |                       |
 | **40**     | Black Shaggy Dog           | 2     | Gurt Dog                  | Forest Maze           |
 
