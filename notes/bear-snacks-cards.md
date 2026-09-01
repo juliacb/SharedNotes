@@ -29,7 +29,7 @@ title: "BEAR Snacks Cards"
 | **20**     | Gnome 🥳                   | 1     | Pixies                    | 🟣 🍄                 |
 | **21**     | Red dino 💡                | 3     | Troodons                  | maze                  |
 | **22**     | Dino long neck             | 1     | Patagotitan               | dino weight scale     |
-| **23**     | Green head dino            | 2     | Edmontosaurus             | Find 3 🦆             |
+| **23**     | Green head dino            | 3     | Edmontosaurus             | Find 3 🦆             |
 | **24**     | Blue dino ✂️               | 3     | Therizinosaurus           | dino nail             |
 | **25**     | yellow dino                | 1     | Kosmoceratops             | a,b,c-? dino heads    |
 | **26**     | blue mosquito              | 1     | Meganeura                 | a,b,c-? 75cm          |
