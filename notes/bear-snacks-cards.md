@@ -37,7 +37,7 @@ title: "BEAR Snacks Cards"
 | **28**     | Tasmanian Tigers           | 1     | Tasmanian Tigers          | a,b,c_? tigers        |
 | ==**29**== | ==Swordfish==              | ==0== | ==Chinese Paddlefish==    |                       |
 | **30**     | Purple dragon              | 1     | Scandinavian Dragons      |                       |
-| **31**     | Kraken                     | 2     | Kraken                    | 🐙maze                |
+| **31**     | Kraken                     | 3     | Kraken                    | 🐙maze                |
 | **32**     | Purple/pink Griffin        | 2     | Griffin                   | Griffins puzzle       |
 | **33**     | Phoenix                    | 3     | Phoenix                   | 🐦‍🔥 🔥🥚            |
 | **34**     | Cyclops                    | 2     | Cyclops                   | Eyes 👀               |
