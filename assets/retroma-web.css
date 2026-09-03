@@ -32,7 +32,7 @@ SOFTWARE.
 
 /* ------------------------------------------------------------------------------------ */
 /* CRT/RETROWAVE BASE STYLES */
-@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+/* NOTE: VT323 font is loaded via <link> in _layouts/default.html (faster than @import) */
 
 :root {
   --pink-glow: #fd9fcb;
