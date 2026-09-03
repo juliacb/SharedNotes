@@ -10,6 +10,11 @@
   {% seo %}
 </head>
 <body class="markdown-preview-view theme-dark">
+  {% unless page.url == "/" %}
+  <nav class="site-nav">
+    <a href="{{ '/' | relative_url }}">← {{ site.title | default: "Home" }}</a>
+  </nav>
+  {% endunless %}
   <!-- Added the class "obsidian-content" to accurately isolate markdown text -->
   <div class="obsidian-content">
     {{ content }}

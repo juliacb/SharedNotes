@@ -74,6 +74,12 @@ body::before {
   padding: 0 20px;
 }
 
+.site-nav {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 /* ------------------------------------------------------------------------------------ */
 /* TYPOGRAPHY */
 
